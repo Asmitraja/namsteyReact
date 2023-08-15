@@ -1,1 +1,2 @@
-# namastey raect course 
+# welcome to our first episode of this react course
+ 
